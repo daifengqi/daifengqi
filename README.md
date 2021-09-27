@@ -21,6 +21,7 @@ Here is Daifeng Qi (漆岱峰). I'm studying as a master of finance in [PHBS](ht
   ![Webpack](https://img.shields.io/badge/-webpack-black?style=plastic&logo=webpack)
   ![Vite](https://img.shields.io/badge/-vite-black?style=plastic&logo=vite)
   ![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=plastic&logo=WebAssembly)
+  ![WebGL](https://img.shields.io/badge/-webgl-black?style=plastic&logo=webgl)
   
 - 🌱 I plan to learn：
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
