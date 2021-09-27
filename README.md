@@ -28,7 +28,7 @@ Here is Daifeng Qi (漆岱峰). I'm studying as a master of finance in [PHBS](ht
   ![Rust](https://img.shields.io/badge/-Rust-black?style=plastic&logo=Rust)
   ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=Go)
   
-- 🙋 I sometimes use
+- 🙋 I sometimes use:
   ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
   ![Python](https://img.shields.io/badge/-python-black?style=plastic&logo=python)
   
