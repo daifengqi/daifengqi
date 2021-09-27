@@ -23,10 +23,14 @@ Here is Daifeng Qi (漆岱峰). I'm studying as a master of finance in [PHBS](ht
   ![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=plastic&logo=WebAssembly)
   ![WebGL](https://img.shields.io/badge/-webgl-black?style=plastic&logo=webgl)
   
-- 🌱 I plan to learn：
+- 🌱 I plan to learn:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Rust](https://img.shields.io/badge/-Rust-black?style=plastic&logo=Rust)
   ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=Go)
+  
+- 🙋 I sometimes use
+  ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
+  ![Python](https://img.shields.io/badge/-python-black?style=plastic&logo=python)
   
 ### 📖 Find me
 I write tech blogs on [Juejin 掘金](https://juejin.cn/user/3782750303954903) and learn&practice algorithm on [Leetcode 力扣](https://leetcode-cn.com/u/cescdf/). You are welcome to talk with me on those platforms.
