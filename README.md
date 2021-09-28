@@ -5,7 +5,7 @@ Here is Daifeng Qi (漆岱峰). I'm studying as a master of finance in [PHBS](ht
 ### 😯 About me
 - 🔭 I’m currently working as a SDE intern in ByteDance (department of TikTok E-commerce, FE).
 - 👯 I’m looking to collaborate on some open source project.
-- 🤔 I’m looking for help with reading source code and contributing to those excellent projects.
+- 🤔 I’m looking for help with reading source code and contributing to the excellent projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: qidaifeng@bytedance.com or daifengqi@stu.pku.edu.cn
 
@@ -33,4 +33,4 @@ Here is Daifeng Qi (漆岱峰). I'm studying as a master of finance in [PHBS](ht
   ![Python](https://img.shields.io/badge/-python-black?style=plastic&logo=python)
   
 ### 📖 Find me
-I write tech blogs on [Juejin 掘金](https://juejin.cn/user/3782750303954903) and learn&practice algorithm on [Leetcode 力扣](https://leetcode-cn.com/u/cescdf/). You are welcome to talk with me on those platforms.
+I write articles on [Juejin 掘金](https://juejin.cn/user/3782750303954903) and learn&practice algorithm on [Leetcode 力扣](https://leetcode-cn.com/u/cescdf/). You are welcome to talk with me or comment my posts on the platforms.
